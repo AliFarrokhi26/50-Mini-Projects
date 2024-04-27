@@ -45,6 +45,7 @@ body {
 
 .panel.active{
   flex: 5;
+  border-radius: 50px;
 }
 
 .panel.active h3{
