@@ -85,6 +85,12 @@ body {
   z-index: -2;
 }
 
+.hero .container h1{
+  height: 20px;
+  margin-bottom: 50px;
+  /* border: 1px solid red; */
+}
+
 .hero::before {
   content: '';
   position: absolute;
